@@ -44,5 +44,3 @@ If you use the original Flickr8k dataset, please cite the authors as following:
 	pages={853--899},
 	year={2013}
 }
-
-
