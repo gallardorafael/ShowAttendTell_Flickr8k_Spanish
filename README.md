@@ -29,9 +29,8 @@ This code is based on the [Tensorflow image captioning with visual attention tut
 ## Citations
 If you use the translated versión of the Flickr8k dataset and you would like to cite:
 ```
-@article{Gallardo2020,
-	title={Evaluación del modelo neuronal de atención visual en la
-  descripción automática de imágenes en Español},
+@article{Gallardo2020attention,
+	title={Evaluación del modelo neuronal de atención visual en la descripción automática de imágenes en Español},
 	author={Gallardo-García, Rafael and Beltrán-Martínez, Beatriz and Vilariño-Ayala, Darnes},
 }
 ```
