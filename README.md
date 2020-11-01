@@ -2,7 +2,7 @@
 This is a repository for the paper "Evaluation of the neural model of visual attention in the automatic
 description of images in Spanish" from Gallardo-García, Beltrán-Martínez and Vilariño-Ayala.
 
-## Spanish version Flickr8k dataset (machine transalated)
+## Spanish version Flickr8k dataset (machine translated)
 The file "es_Flickr8k.token.txt" contains the translated descritions of each image in the original Flickr8k
 dataset. It is also avaibale from the following [link](https://url2.cl/XYxj6). This file contains a total of 
 40,455 captions (rows) per each of the 8,091 images in the Flickr8k dataset. Each row contain the filename of the image that describes, the ID of de caption and the caption's text, the columns are divided by ",".
